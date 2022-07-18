@@ -1,0 +1,11 @@
+name: a2.2
+channels: 
+  - conda-forge
+dependencies:
+  - python=3.7
+  - ipython
+  - ipykernel
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy

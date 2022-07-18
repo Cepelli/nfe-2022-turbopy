@@ -1,0 +1,16 @@
+  name: f2
+  channels:
+          - conda-forge
+  dependencies:
+          - ipython
+          - ipykernel
+          - numpy
+          - sympy
+          - pytest
+          - pylint
+          - autopep8
+          - pip
+          - pip:
+            - pint
+
+          
